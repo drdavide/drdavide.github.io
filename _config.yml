@@ -55,7 +55,7 @@ copyright: Davide D'Amico
 # instead of custom text. Ideally, image is 50px high and takes up
 # minimal horizontal space. Tested with a new root "images" folder e.g.:
 # title-logo: /img/my-logo.png (or JPG, etc.)
-title-logo: /img/logo.png
+title-logo: /img/logo_long.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
