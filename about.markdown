@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Davide D'Amico. Born and raised in Italy, with the passion of travels, music and digital technologies.
+I like facing challenges with an interdisciplinary approach, lateral thinking and in a sustainable way.
+I hold an M.Sc. in Energy Engineering. I have worked and studied in Italy, Austria, Thailand and in the U.K.
+I am currently a PhD candidate in Digital Engineering at the Cranfield University, check out my [Likeding Profile](https://www.linkedin.com/in/davide~damico/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Digital Twin Engineering Group](https://www.linkedin.com/groups/13708020/)
+[YouTube Channel](https://www.youtube.com/c/DavideDAmico/)
+[GitHub Profile](https://github.com/drdavide)
+[Twitter @drdavide8891](https://twitter.com/drdavide8891)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
