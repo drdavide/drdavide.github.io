@@ -1,4 +1,3 @@
-# pages
-my website
+# Davide D'Amico - my blog
 
-Priority HTML, MD, README
+Priority order: HTML, MD, README
