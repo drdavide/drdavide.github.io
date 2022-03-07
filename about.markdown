@@ -10,9 +10,6 @@ permalink: /about/
   <img width="200" height="200" src="/img/profile.png">
 </p>
 
-![Davide D'Amico](/img/profile.png){: .align-center}
-![Davide D'Amico](/img/profile.png)
-
 My name is *Davide D'Amico*. Born and raised in Italy, with the passion of travels, music and digital technologies.
 I like facing challenges with an interdisciplinary approach, lateral thinking and in a sustainable way.
 I hold an M.Sc. in Energy Engineering. I have worked and studied in Italy, Austria, Thailand and in the U.K.
