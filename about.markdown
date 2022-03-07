@@ -7,8 +7,7 @@ permalink: /about/
 ## This is my space
 
 <p align="center">
-![Davide D'Amico](/img/profile.jpg)
-  <img width="200" height="200" src=/img/profile.jpg>
+  <img width="200" height="200" src="/img/profile.jpg">
 </p>
 
 ![Davide D'Amico](/img/profile.jpg)
