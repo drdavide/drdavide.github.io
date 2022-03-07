@@ -21,7 +21,7 @@
 title: Davide D'Amico
 email: mailto:drdavide@gmai.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My journey into web development
+  My journey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://drdavide.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

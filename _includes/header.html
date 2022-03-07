@@ -8,7 +8,9 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       -->
     
-    <!-- Custom:add title or logo -->
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="/favicon.png" width="26" />{{ site.title | escape }}</a>
+
+    <!-- Custom:add title or logo 
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- if site.title-logo -%}
         <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title-logo | escape }}"></img>
@@ -16,7 +18,7 @@
         {{ site.title | escape }}
       {%- endif -%}
     </a>
-    <!-- end title or title-logo -->
+     end title or title-logo -->
 
     {%- if page_paths -%}
       <nav class="site-nav">
