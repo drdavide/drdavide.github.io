@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## This is my space
-
 <p align="center">
   <img width="200" height="200" src="/img/profile.png">
 </p>
