@@ -18,36 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Davide's Pages
-email: drdavide@gmail.com
+title: Davide D'Amico
+email: mailto:drdavide@gmai.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website
-baseurl: "/pages" # the subpath of your site, e.g. /blog
-url: "https://drdavide.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: drdavide8891
+  This blog collects my posts
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "drdavide.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: @drdavide8891
 github_username:  drdavide
 
 # Build settings
-# Removed minima theme as it is now a regular theme
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
-
-# Fields minima uses, but are not defaulted with the Jekyll new command.
-# Author is the default for posts, the atom feed, and is used in the footer 
-author: Davide D'Amico
-linkedin_username: davide~damico
-youtube_username: DavideDAmico
-
-# New fields not defaulted by Jekyll-new with minima theme
-# Add a copyright. A copyright symbol and year will be added automatically
-# copyright: company name, Inc.
-copyright: Davide D'Amico
-# title-logo is a new field that, when used, displays a logo 
-# instead of custom text. Ideally, image is 50px high and takes up
-# minimal horizontal space. Tested with a new root "images" folder e.g.:
-# title-logo: /img/my-logo.ong (or JPG, etc.)
-title-logo: /img/logo.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
