@@ -54,7 +54,7 @@ copyright: Davide D'Amico
 # title-logo is a new field that, when used, displays a logo 
 # instead of custom text. Ideally, image is 50px high and takes up
 # minimal horizontal space. Tested with a new root "images" folder e.g.:
-# title-logo: /img/my-logo.ong (or JPG, etc.)
+# title-logo: /img/my-logo.png (or JPG, etc.)
 title-logo: /img/logo.png
 
 # Exclude from processing.
@@ -65,14 +65,14 @@ title-logo: /img/logo.png
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
