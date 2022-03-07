@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Davide D'Amico
-author: Davide D'Amico
 email: mailto:drdavide@gmai.com
 description: >- # this means to ignore newlines until "baseurl:"
   My journey into web development
@@ -31,7 +30,8 @@ github_username: drdavide
 show_excerpts: true
 permalink: /:collection/:year-:month-:day-:title:output_ext
 
-staticman_url: "https://sdosda-staticman.herokuapp.com/v3/entry/github/simondosda/SimonDosda.github.io/main/comments"
+# staticman url for comments, to be done:
+# staticman_url: "https://sdosda-staticman.herokuapp.com/v3/entry/github/simondosda/SimonDosda.github.io/main/comments"
 
 # Build settings
 theme: minima
@@ -40,6 +40,23 @@ plugins:
   - jekyll-seo-tag
   - jekyll-target-blank
   - jekyll-sitemap
+
+# Fields minima uses, but are not defaulted with the Jekyll new command.
+# Author is the default for posts, the atom feed, and is used in the footer 
+author: Davide D'Amico
+linkedin_username: davide~damico
+youtube_username: DavideDAmico
+
+# New fields not defaulted by Jekyll-new with minima theme
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: company name, Inc.
+copyright: Davide D'Amico
+# title-logo is a new field that, when used, displays a logo 
+# instead of custom text. Ideally, image is 50px high and takes up
+# minimal horizontal space. Tested with a new root "images" folder e.g.:
+# title-logo: /img/my-logo.ong (or JPG, etc.)
+title-logo: /img/logo.png
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
