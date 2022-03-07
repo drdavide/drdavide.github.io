@@ -10,6 +10,7 @@ permalink: /about/
   <img width="200" height="200" src="/img/profile.jpg">
 </p>
 
+![Davide D'Amico](/img/profile.jpg){: .align-center}
 ![Davide D'Amico](/img/profile.jpg)
 
 My name is *Davide D'Amico*. Born and raised in Italy, with the passion of travels, music and digital technologies.
