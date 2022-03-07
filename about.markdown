@@ -13,4 +13,5 @@ I am currently a PhD candidate in Digital Engineering at the Cranfield Universit
 [YouTube Channel](https://www.youtube.com/c/DavideDAmico/)
 [GitHub Profile](https://github.com/drdavide)
 [Twitter @drdavide8891](https://twitter.com/drdavide8891)
+[email me](mailto:drdavide@gmail.com)
 
