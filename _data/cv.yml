@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Davide D'Amico
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th August 1988
     - name: Languages
-      value: English, German
+      value: Italian, English
 
 - title: Education
   type: time_table

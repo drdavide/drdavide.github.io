@@ -1,18 +1,14 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Davide D'Amico",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "drdavide@gmail.com",
+    "url": "https://drdavide.github.io",
+    "summary": "An Italian-born ambitious professional, with the passion of technology, finance, and travels",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "London",
+      "countryCode": "UK"
     },
     "profiles": [
       {
