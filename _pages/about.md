@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: If nothing goes right, go left
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dr. Davide D'Amico</p>
+    <p>London, UK</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Davide works at Bloomberg, leading initiatives in semantic modelling and data standardisation. He has developed comprehensive training programs that have upskilled over 700 employees, promoting the adoption of ontology-driven methodologies across the company. His work enhances data consistency and drives the development of formal semantic technologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, Davide lectured at Cranfield University, specializing in Ontology-based Data Management with a focus on Digital Twin applications. His career spans industry and academia, contributing to projects at GE General Electric and Fraunhofer Institute, where he advanced Industry 4.0 technologies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Davide holds a PhD in Digital Engineering and has authored several peer-reviewed publications on cognitive digital twins, using formal ontologies and knowledge-driven applications. He has also contributed to the Industrial Ontology Foundry (IOF) within the Systems Engineering working group. His expertise includes RDF, OWL, SPARQL, SHACL, and top-level ontology-based data management systems.
