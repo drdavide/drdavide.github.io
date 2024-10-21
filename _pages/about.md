@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: If nothing goes right, go left
+subtitle: 
 
 profile:
   align: right
