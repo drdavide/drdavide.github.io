@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Subtitle
+subtitle: /
 
 profile:
   align: right
