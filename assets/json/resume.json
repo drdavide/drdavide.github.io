@@ -1,18 +1,13 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Davide D'Amico",
+    "label": "Ontologist",
+    "email": "drdavide@gmail.com",
+    "url": "https://drdavide.github.io/",
+    "summary": "An italian ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "London",
+      "countryCode": "UK",
     },
     "profiles": [
       {
@@ -151,13 +146,23 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Basic",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
