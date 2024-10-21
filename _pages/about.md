@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: PhD, Semantic Educator at Bloomberg
 
 profile:
   align: left
