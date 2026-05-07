@@ -14,10 +14,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Davide leads semantic modelling and data standardisation initiatives at Bloomberg, developing training programs that have up-skilled hundreds of employees and advanced the adoption of ontology-driven methodologies across the firm.
+Davide is a software engineer at Bloomberg, where he leads semantic modelling and data standardisation initiatives. He has designed training programs that have upskilled hundreds of employees and accelerated firm-wide adoption of ontology-driven methodologies.
 
-Davide holds a PhD in Digital Engineering and has authored several peer-reviewed publications on cognitive digital twins, using formal ontologies and knowledge-driven applications. He has also contributed to the Industrial Ontology Foundry (IOF). His expertise includes RDF, OWL, SPARQL, SHACL, and top-level ontology-based data management systems.
+With a PhD in Digital Engineering, he has authored several peer-reviewed publications on cognitive digital twins, applying formal ontologies and knowledge-driven systems. His expertise spans RDF, OWL, SPARQL, SHACL, and top-level ontology-based data management.
 
-Before working at Bloomberg, Davide lectured at Cranfield University, specialising in Ontology-based Data Management with a focus on Digital Twin applications. His career spans industry and academia, and he contributed to projects at GE General Electric and Fraunhofer Institute, where he advanced Industry 4.0 technologies.
-
+Drawing on his academic background, Davide previously lectured at Cranfield University, specialising in Ontology-based Data Management with a focus on Digital Twin systems. He has played a key role in embedding semantic web technologies across financial and research domains and regularly presents in both academic and industry settings.
 
