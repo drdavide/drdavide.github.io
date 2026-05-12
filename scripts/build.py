@@ -1,6 +1,7 @@
 import os
 import yaml
 import markdown
+import shutil
 from datetime import datetime
 from pathlib import Path
 
@@ -156,6 +157,14 @@ def build():
     all_tags_html = f'<ul class="tag-list">{all_tags_html}</ul>'
     tag_index_html = render_template(tag_template, tag="All Tags", posts=all_tags_html)
     write_file(os.path.join(OUTPUT_DIR, "tags", "index.html"), tag_index_html)
+
+    # --- Copy static assets ---
+    print("\nCopying static assets:")
+    assets_src = "assets"
+    assets_dst = os.path.join(OUTPUT_DIR, "assets")
+    if os.path.exists(assets_src):
+        shutil.copytree(assets_src, assets_dst, dirs_exist_ok=True)
+        print(f"  ✓ {assets_dst}")
 
     print(f"\n✅ Done! Generated {len(posts)} posts, {len(tag_map)} tag pages.")
 
